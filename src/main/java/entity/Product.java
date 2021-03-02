@@ -14,7 +14,7 @@ public class Product {
         this.price = price;
         this.weight = weight;
         this.color = color;
-        this. productCount = productCount;
+        this.productCount = productCount;
     }
 
     public long getId() {
